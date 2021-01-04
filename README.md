@@ -1,4 +1,4 @@
-# Udacity Cloud-Developer-Nanodegree
+# Udacity Cloud Developer Nanodegree
 Coursework and projects involved in this course
 
 # Course Details

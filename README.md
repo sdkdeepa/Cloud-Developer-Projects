@@ -15,7 +15,7 @@ Learn the fundamentals of cloud computing while being introduced to compute powe
 ### DEPLOY A STATIC WEBSITE ON AWS PROJECT:
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. In this project, you will deploy a static website to AWS. First, you will create a S3 bucket, configure the bucket for website hosting, and secure it using IAM policies. Next, you will upload the website files to your bucket and speed up content delivery using AWS’s content distribution network service, CloudFront. Lastly, you will access your website in a browser using the unique S3 endpoint.
 
-- Repo: https://github.com/sdkdeepa/Udacity-udagram-project2
+- Repo: https://github.com/sdkdeepa/Udacity-CDnano-Project-1
 - Technologies: aws, s3, cloudfront
 
 ## 2. Full Stack Apps on AWS
@@ -23,7 +23,7 @@ Design and deploy scalable, extendable, and maintainable full stack applications
 ### UDAGRAM: YOUR OWN INSTAGRAM ON AWS PROJECT:
 In this project, you will develop a cloud-based application for uploading, listing, and filtering images. You will use Node.js/Express, a popular Javascript framework for networked application development. You will implement a REST API to issue commands using HTTP, store data in Amazon Web Services Relational Data Service (RDS) and S3, extend the codebase with secure authentication signon features, and deploy to Amazon Web Services Elastic Beanstalk. These are the hard skills you’ll need in any Cloud developer role.
 
-- Repo: https://github.com/sdkdeepa/microservices-udacity-project3
+- Repo: https://github.com/sdkdeepa/Udacity-udagram-project2
 - Technologies: AWS, elasticbeanstalk, eb-cli, nodejs, express, sentry, jimp, morgan, http-status
 
 ## 3. Monolith to Microservices at Scale

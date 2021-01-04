@@ -8,7 +8,7 @@ You should have intermediate knowledge of Javascript, and familiarity with objec
 
 ## Course Syllabus
 
-[Cloud%2BDeveloper%2BNanodegree%2Bprogram%2BSyllabus.pdf](https://github.com/sdkdeepa/Cloud-Developer-Nanodegree/blob/main/Cloud%2BDeveloper%2BNanodegree%2Bprogram%2BSyllabus.pdf)
+[CloudDeveloperNanodegreeProgram-Syllabus.pdf](https://github.com/sdkdeepa/Cloud-Developer-Nanodegree/blob/main/CloudDeveloperNanodegreeProgram-Syllabus.pdf)
 
 ## 1. Cloud Foundations
 Learn the fundamentals of cloud computing while being introduced to compute power, security, storage, networking, messaging, and management services in the cloud.

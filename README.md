@@ -47,4 +47,9 @@ Repo: https://github.com/sdkdeepa/Udacity-CDN-Capstone-project
 
 # Certificate
 
-https://github.com/sdkdeepa/Cloud-Developer-Nanodegree/blob/main/CloudDeveloperNanodegree.pdf
+
+
+# Nanodegree Certificate
+
+[CloudDeveloperNanodegree.pdf](https://github.com/sdkdeepa/Cloud-Developer-Nanodegree/blob/main/CloudDeveloperNanodegree.pdf)
+

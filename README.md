@@ -3,7 +3,7 @@ Coursework and projects involved in this course
 
 # Course Details
 
-## PREREQUISITE KNOWLEDGE
+## Prerequsite Knowledge
 You should have intermediate knowledge of Javascript, and familiarity with object-oriented programming, web development with HTML and CSS, and the Linux Command Line. See detailed requirements.
 
 ## Course Syllabus
